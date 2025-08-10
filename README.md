@@ -22,7 +22,7 @@ The **Pump.fun AMM Bundler Bot** is an automated trading bot designed for Pump.f
 ## Installation
 ```sh
 # Clone the repository
-git clone https://github.com/your-repo/pumpfun-amm-bundler-bot.git
+git clone https://github.com/topsecretagent007/pumpfun-amm-bundler-bot.git
 cd pumpfun-amm-bundler-bot
 
 # Install dependencies
